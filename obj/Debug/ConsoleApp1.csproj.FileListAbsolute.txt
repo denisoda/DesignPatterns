@@ -1,0 +1,11 @@
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\bin\Debug\NLog.dll
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+F:\ilyab\Documents\Projects\C#\Crypto\ConsoleApp1\ConsoleApp1\bin\Debug\NLog.xml
